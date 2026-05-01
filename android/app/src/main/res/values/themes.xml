@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.KapiAc" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor" tools:targetApi="l">#F4F1EA</item>
+        <item name="colorPrimary">#0F766E</item>
+        <item name="colorPrimaryVariant">#115E59</item>
+        <item name="colorSecondary">#B45309</item>
+    </style>
+</resources>

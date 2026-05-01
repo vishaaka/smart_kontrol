@@ -1,0 +1,17 @@
+.gradle/
+build/
+local.properties
+captures/
+*.iml
+.idea/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/keystore.properties
+android/release-keystore.jks
+PL2303_Prolific_DriverInstaller_v1.5.0.zip
+PL2303_v150/
+gradle-8.7-bin.zip
+screenshots/
+tools/

@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="relay_mode_values">
+        <item>momentary</item>
+        <item>latch</item>
+    </string-array>
+
+    <string-array name="primary_channel_values">
+        <item>Kanal 1</item>
+        <item>Kanal 2</item>
+    </string-array>
+</resources>
